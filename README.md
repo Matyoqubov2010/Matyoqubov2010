@@ -1,4 +1,4 @@
-![Bottom up](https://github.com/user-attachents/asssets/55711378-b70b-4895-a1e3-f7f7a51312)
+
  
  
  Hi there I`m Matyoqubov2010👋
