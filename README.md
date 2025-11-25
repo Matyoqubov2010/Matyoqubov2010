@@ -6,7 +6,7 @@
 <h1> Hi there I`m Matyoqubov2010👋</h1>
 <h2>Mening IT ko`nikmalarim</h2>
 <ol>
- <li>HTML</li>
+ <li>HTML</li>https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg
  <li>CSS</li>
  <li>JAVASCRIPT</li>
 </ol>
