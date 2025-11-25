@@ -4,9 +4,12 @@
  
  
 <h1> Hi there I`m Matyoqubov2010👋</h1>
-<ul>
- <li>hh</li>
-</ul>
+<h2>Mening IT ko`nikmalarim</h2>
+<ol>
+ <li>HTML</li>
+ <li>CSS</li>
+ <li>JAVASCRIPT</li>
+</ol>
 
 <!--
 **Matyoqubov2010/Matyoqubov2010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
