@@ -11,5 +11,7 @@
  <li>JAVASCRIPT</li>
  <li>Python</li>
 </ol>
-- ⚡ Fun fact: ...
--->
+
+<p align="center">
+<img src="https://github.com/abozanona/pacman-contribution-graph/raw/master/pacman.svg">
+</p>
