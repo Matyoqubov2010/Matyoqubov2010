@@ -12,6 +12,3 @@
  <li>Python</li>
 </ol>
 
-<p align="center">
-<img src="https://github.com/abozanona/pacman-contribution-graph/raw/master/pacman.svg">
-</p>
