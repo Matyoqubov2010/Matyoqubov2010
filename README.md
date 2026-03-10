@@ -12,7 +12,7 @@
  <li>Python</li>
 </ol>
 
-<h1 align="center">Hi 👋 I'm Your Name</h1>
+<h1 align="center" color=green>Hi 👋 I'm Umidbek Matyoqubov</h1>
 <h3 align="center">Frontend / Backend Developer from Uzbekistan 🇺🇿</h3>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header"/>
