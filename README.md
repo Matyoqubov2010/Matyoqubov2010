@@ -76,3 +76,57 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+<h2 align="center">⚡️ GitHub Stats </h2>
+<p align="center">
+  <img height="160" style="margin: 0 10px;" src="https://github-readme-stats.vercel.app/api?username=ibragimov-owner&show_icons=true&theme=tokyonight&hide_border=true" alt="" />
+  <img height="160" style="margin: 0 10px;" src="https://github-readme-streak-stats.herokuapp.com/?user=ibragimov-owner&theme=tokyonight&hide_border=true" alt="" />
+  <img height="160" style="margin: 0 10px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibragimov-owner&layout=compact&theme=tokyonight&hide_border=true" alt="" />
+</p>
+
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ibragimov-owner&theme=tokyonight"/>
+</p>
+
+--- 
+
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ibragimov-owner&theme=tokyonight"/>
+</p>
+ 
+<h2 align="center">📊 Contribution Graph</h2>
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ibragimov-owner&theme=tokyo-night&hide_border=true"/>
+</p>
+<h2 align="center">   🌐 Connect with me </h2>
+<p align="center">
+  <a href="https://t.me/OrgIbragimov" target="_blank" title="Telegram">
+    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="60" height="60" alt="Telegram"/>
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/ibragimov-owner" target="_blank" title="GitHub">
+    <img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" width="60" height="60" alt="GitHub"/>
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://instagram.com/ibragimov_vz" target="_blank" title="Instagram">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" width="60" height="60" alt="Instagram"/>
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://linkedin.com/in/muhammadali-ibragimov-ba5882390" target="_blank" title="LinkedIn">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="60" height="60" alt="LinkedIn"/>
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://m-ibragimov.netlify.app/" target="_blank" title="Portfolio">
+    <img src="https://cdn-icons-png.flaticon.com/512/841/841364.png" width="60" height="60" alt="Portfolio"/>
+  </a>
+</p>
+
+
