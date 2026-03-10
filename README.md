@@ -76,26 +76,3 @@
 
 
 
-README.md
-Bottom_up
-
-Typing SVG
-
-
-Profile Views
-
-68747470733a2f2f70726f66696c652d726561646d652d67656e657261746f722e636f6d2f6173736574732f736e616b652e737667
-
-snake
-
-github-snake-dark
-
-549897830-f8f6d733-d2b5-41dc-82c0-92b95f70b505
-
-<a href="https://t.me/yourtelegram">
-<img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white"/>
-</a>
-
-<a href="https://instagram.com/yourinsta">
-<img src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
