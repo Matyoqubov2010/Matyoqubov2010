@@ -89,6 +89,16 @@
 
 
 
+<h1>
+  <span style="color:red;">U</span>
+  <span style="color:orange;">M</span>
+  <span style="color:yellow;">I</span>
+  <span style="color:green;">D</span>
+  <span style="color:blue;">B</span>
+  <span style="color:indigo;">E</span>
+  <span style="color:violet;">K</span>
+</h1>
+
 
 
 
