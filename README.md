@@ -74,7 +74,7 @@
 
 
 
-<h1  style="color:green;">
+<h1>
 
 
 ```
