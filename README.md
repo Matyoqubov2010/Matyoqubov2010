@@ -120,13 +120,13 @@
 </p>
 <h2 align="center">   🌐 Connect with me </h2>
 <p align="center">
-  <a href="https://t.me/OrgIbragimov" target="_blank" title="Telegram">
+  <a href="https://t.me/umidbek_039" target="_blank" title="Telegram">
     <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="60" height="60" alt="Telegram"/>
   </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/ibragimov-owner" target="_blank" title="GitHub">
+  <a href="https://github.com/Matyoqubov2010 " target="_blank" title="GitHub">
     <img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" width="60" height="60" alt="GitHub"/>
   </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://instagram.com/ibragimov_vz" target="_blank" title="Instagram">
+  <a href="https://instagram.com/umidbek__039__" target="_blank" title="Instagram">
     <img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" width="60" height="60" alt="Instagram"/>
   </a>&nbsp;&nbsp;&nbsp;
   <a href="https://linkedin.com/in/muhammadali-ibragimov-ba5882390" target="_blank" title="LinkedIn">
