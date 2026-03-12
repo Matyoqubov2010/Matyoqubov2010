@@ -88,37 +88,45 @@
 
 
 
+![pacman-contribution-graph-dark](https://github.com/user-attachments/assets/f8f6d733-d2b5-41dc-82c0-92b95f70b505)
+
+<img width="1011" height="136" alt="image" src="https://github.com/user-attachments/assets/fad24ce2-4040-47bd-9cb9-24fd9ef3df1b" />
+
+![snake](https://github.com/user-attachments/assets/7ad76be1-271d-46e0-b030-6c74f6f4086b)
+
+
+![pacman-contribution-graph-dark](https://github.com/user-attachments/assets/f8f6d733-d2b5-41dc-82c0-92b95f70b505)
 <h2 align="center">⚡️ GitHub Stats </h2>
 <p align="center">
-  <img height="160" style="margin: 0 10px;" src="https://github-readme-stats.vercel.app/api?username=Umidbek Matyoqubov&show_icons=true&theme=tokyonight&hide_border=true" alt="" />
-  <img height="160" style="margin: 0 10px;" src="https://github-readme-streak-stats.herokuapp.com/?user=Umidbek Matyoqubov&theme=tokyonight&hide_border=true" alt="" />
-  <img height="160" style="margin: 0 10px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Umidbek Matyoqubov&layout=compact&theme=tokyonight&hide_border=true" alt="" />
+  <img height="160" style="margin: 0 10px;" src="https://github-readme-stats.vercel.app/api?username=ibragimov-owner&show_icons=true&theme=tokyonight&hide_border=true" alt="" />
+  <img height="160" style="margin: 0 10px;" src="https://github-readme-streak-stats.herokuapp.com/?user=ibragimov-owner&theme=tokyonight&hide_border=true" alt="" />
+  <img height="160" style="margin: 0 10px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibragimov-owner&layout=compact&theme=tokyonight&hide_border=true" alt="" />
 </p>
 
 <p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Umidbek Matyoqubov&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ibragimov-owner&theme=tokyonight"/>
 </p>
 
 --- 
 
 <p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Umidbek Matyoqubov&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ibragimov-owner&theme=tokyonight"/>
 </p>
  
 <h2 align="center">📊 Contribution Graph</h2>
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Matyoqubov2010&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ibragimov-owner&theme=tokyo-night&hide_border=true"/>
 </p>
 <h2 align="center">   🌐 Connect with me </h2>
 <p align="center">
-  <a href="https://t.me/umidbek_039" target="_blank" title="Telegram">
+  <a href="https://t.me/OrgIbragimov" target="_blank" title="Telegram">
     <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="60" height="60" alt="Telegram"/>
   </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/Matyoqubov2010" target="_blank" title="GitHub">
+  <a href="https://github.com/ibragimov-owner" target="_blank" title="GitHub">
     <img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" width="60" height="60" alt="GitHub"/>
   </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://instagram.com/umidbek__039__" target="_blank" title="Instagram">
+  <a href="https://instagram.com/ibragimov_vz" target="_blank" title="Instagram">
     <img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" width="60" height="60" alt="Instagram"/>
   </a>&nbsp;&nbsp;&nbsp;
   <a href="https://linkedin.com/in/muhammadali-ibragimov-ba5882390" target="_blank" title="LinkedIn">
@@ -128,5 +136,3 @@
     <img src="https://cdn-icons-png.flaticon.com/512/841/841364.png" width="60" height="60" alt="Portfolio"/>
   </a>
 </p>
-
-
