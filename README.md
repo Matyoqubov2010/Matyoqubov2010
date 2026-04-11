@@ -105,7 +105,7 @@
 
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:000000,100:000000&text=Welcome%20to%20Baxtiyor's%20GitHub%20Profile!&fontSize=40&fontColor=FFFFFF&animation=twinkling&fontAlignY=38"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:000000,100:000000&text=Welcome%20to%20Umidbek's%20GitHub%20Profile!&fontSize=40&fontColor=FFFFFF&animation=twinkling&fontAlignY=38"/>
 </p>
 
 <!--contriboution snake-->
