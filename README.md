@@ -2,8 +2,8 @@
 <img width="2000" height="400" alt="511691580-d1268492-1814-4d0c-9383-f17e0260f10f" src="https://github.com/user-attachments/assets/5017e395-7ce9-4363-9668-cce13049ff69" />
 
   ![Typing Text](https://readme-typing-svg.demolab.com?lines=Salom!+Men+ismim+Matyoqubov+Umidbek+Umirbek+ogli.;IT+sohasiga+qiziqaman+maqsadim+web+dasturchi+bo'lish.&font=Fira+Code&size=25&pause=1000&color=0000FF&center=true&vCenter=true&width=1200)
-  
- 
+
+   
 <h1> Hi there I`m Matyoqubov2010👋</h1>
 <h2>Mening IT ko`nikmalarim</h2>
 <ol>
